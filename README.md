@@ -41,17 +41,12 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-#### 🔐 APIs & Tools
-<p>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-ff9900?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-#### 💳 Payments
-<p>
-  <img src="https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=payoneer&logoColor=white"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br0nt1k/br0nt1k/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/br0nt1k/br0nt1k/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/br0nt1k/br0nt1k/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
