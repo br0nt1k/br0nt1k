@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://programing-gifs.vercel.app/" width="600" alt="br0nt1k/Programming-Gifs">
+  <img src="https://programing-gifs.vercel.app/" width="400" alt="br0nt1k/Programming-Gifs">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Oleh!</h1>
