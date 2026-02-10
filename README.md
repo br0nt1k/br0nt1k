@@ -1,17 +1,25 @@
-<h1 align="center">Full-Stack Developer | React · Next.js · Node.js</h1>
+<p align="center">
+  <img src="https://programing-gifs.vercel.app/" width="600" alt="br0nt1k/Programming-Gifs">
+</p>
+
+<h1 align="center">Hi there 👋 I'm Oleh!</h1>
+<h3 align="center">Full-Stack Developer | React · Next.js · Node.js</h3>
 
 <p align="center">
-  <a href="https://github.com/br0nt1k">
-    <img src="https://programing-gifs.vercel.app/" width="300" alt="br0nt1k/Programming-Gifs">
+  <a href="https://t.me/o_oleh_20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/oleh-oprysk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:opryskoleh2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </p>
 
 <p align="center">
-<p align="center"> 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=br0nt1k&theme=onedark" alt="GitHub Streak" />
 </p>
- </p> <p align="center">
 
 ### 🛠 Tech Stack
 
@@ -50,11 +58,11 @@
 
 ### ⚡️ About Me:
 
-- 💻 **6+ months** of hands-on experience in Full-Stack web development.
-- 🏗 Creating dynamic applications using **React, Next.js, Node.js, and Express**.
-- 🎓 Deeply interested in **System Programming** and efficient code architecture.
-- 👥 Experienced **Team Lead** in collaborative development projects.
-- 🚀 Focused on building scalable, user-friendly, and performant web solutions.
+- 💻 **3+ months** of professional **Full-time Office** experience as a Full-Stack Developer.
+- 🏗 Developing commercial web applications using **React, Next.js, Node.js, and Express**.
+- 🎓 Deeply interested in **System Programming** and performance optimization.
+- 👥 Experienced **Team Lead** in complex web projects and code reviews.
+- 🚀 Passionate about building clean, scalable, and high-performance software.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Tech/ai.gif" width="300" />
