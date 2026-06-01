@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### 🎨 Frontend
@@ -39,6 +41,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 #### 🔐 APIs & Tools
@@ -47,6 +50,21 @@
   <img src="https://img.shields.io/badge/REST_API-ff9900?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+#### ⚙️ DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+#### 🤖 AI Tools
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 </p>
 
 #### 💳 Payments
@@ -66,11 +84,11 @@
 
 ### ⚡️ About Me:
 
-- 💻 **3+ months** of professional **Full-time Office** experience as a Full-Stack Developer.
-- 🏗 Developing commercial web applications using **React, Next.js, Node.js, and Express**.
-- 🎓 Deeply interested in **System Programming** and performance optimization.
-- 👥 Experienced **Team Lead** in complex web projects and code reviews.
-- 🚀 Passionate about building clean, scalable, and high-performance software.
+- 💻 **6+ months** of commercial experience as a **Full-Stack Developer**.
+- 🏗 Developing and maintaining web and cross-platform mobile applications using **React, Next.js, Node.js, and React Native**.
+- 💼 Experienced in modernizing legacy systems and developing custom **SDKs** for international clients.
+- 🎓 Strong foundation in **System Programming**, infrastructure (**Docker, Linux**), and architectural design.
+- 🚀 Passionate about writing clean, scalable code and leveraging **AI tools** to optimize development workflows.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Tech/ai.gif" width="300" />
