@@ -84,7 +84,7 @@
 
 ### ⚡️ About Me:
 
-- 💻 **6+ months** of commercial experience as a **Full-Stack Developer**.
+- 💻 **8+ months** of commercial experience as a **Full-Stack Developer**.
 - 🏗 Developing and maintaining web and cross-platform mobile applications using **React, Next.js, Node.js, and React Native**.
 - 💼 Experienced in modernizing legacy systems and developing custom **SDKs** for international clients.
 - 🎓 Strong foundation in **System Programming**, infrastructure (**Docker, Linux**), and architectural design.
